@@ -2,7 +2,7 @@
 
 =================
 
-#Front-End Framework
+# Front-End Framework
 ===============================
 
 Angular  
@@ -11,16 +11,16 @@ React
 
 =================
 
-#Back-End Framework
+# Back-End Framework
 ===============================
-
 Node.js/Express.js  
 Spring Boot/Spring Cloud  
-[MongoDB](https://www.mongodb.com/try/download/community)  
+[MongoDB](https://www.mongodb.com/try/download/community)
+Python/Django
 
 =================
 
-#Distrubuted Systems
+# Distrubuted Systems
 ===============================
 
 Apache Camel+KAFKA  
@@ -31,7 +31,7 @@ OKD - The Community Distribution of Kubernetes that powers
 
 =================
 
-#Reactive Programming
+# Reactive Programming
 ===============================
 
 [Introduction to Reactive Programming](https://www.youtube.com/watch?v=fec9nEIybp0)
@@ -46,3 +46,11 @@ OKD - The Community Distribution of Kubernetes that powers
 [Do’s and Don’ts: Avoiding First-Time Reactive Programmer Mines](https://www.youtube.com/watch?v=0rnMIueRKNU)
 觀看次數：25,619次2019年10月16日
 
+=================
+
+# Other Knowlege
+===============================
+
+[Design a Fluent API in Java](https://dzone.com/articles/java-fluent-api-design)
+
+[Making the Java Fluent API More Flexible](https://dzone.com/articles/making-java-fluent-api-more-flexible)
