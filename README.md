@@ -47,6 +47,8 @@ OKD - The Community Distribution of Kubernetes that powers
 [Do’s and Don’ts: Avoiding First-Time Reactive Programmer Mines](https://www.youtube.com/watch?v=0rnMIueRKNU)
 觀看次數：25,619次2019年10月16日
 
+[Avoiding Reactor Meltdown](https://www.youtube.com/watch?v=xCu73WVg8Ps)
+觀看次數：10,852次2019年10月16日
 =================
 
 # Other Knowlege
