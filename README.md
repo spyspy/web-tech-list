@@ -5,26 +5,26 @@
 #Front-End Framework
 ===============================
 
-Angular
-Vue
-React
+Angular  
+Vue  
+React  
 
 =================
 
 #Back-End Framework
 ===============================
 
-Node.js/Express.js
-Spring Boot/Spring Cloud
-[MongoDB](https://www.mongodb.com/try/download/community)
+Node.js/Express.js  
+Spring Boot/Spring Cloud  
+[MongoDB](https://www.mongodb.com/try/download/community)  
 
 =================
 
 #Distrubuted Systems
 ===============================
 
-Camel
-Spring WebFlux/WebClient
+Camel  
+Spring WebFlux/WebClient  
 Docker
 K8s(Kubernetes)
 OKD - The Community Distribution of Kubernetes that powers
