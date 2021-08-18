@@ -23,10 +23,10 @@ Spring Boot/Spring Cloud
 #Distrubuted Systems
 ===============================
 
-Camel  
+Apache Camel+KAFKA  
 Spring WebFlux/WebClient  
-Docker
-K8s(Kubernetes)
+Docker  
+K8s(Kubernetes)  
 OKD - The Community Distribution of Kubernetes that powers
 
 =================
