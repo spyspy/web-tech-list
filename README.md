@@ -17,7 +17,7 @@ React
 Java 8, Java 11  
 Node.js/Express.js  
 Spring Boot/Spring Cloud  
-<<<<<<< HEAD
+
 [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
 
 Python/Django  
@@ -29,7 +29,6 @@ Python/Django
 Python/Django  
 
 [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
->>>>>>> 10bda76276728f318228436b3aaa048dd30f348f
 
 =================
 
