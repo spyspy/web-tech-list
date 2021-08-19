@@ -17,15 +17,14 @@ React
 Java 8, Java 11  
 Node.js/Express.js  
 Spring Boot/Spring Cloud  
-
-[Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
-[Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
-
 Python/Django  
 
+[Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
+[Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)  
+
 [MongoDB](https://www.mongodb.com/try/download/community)  
-[Redis](https://redis.io/download)
-=======
+
+[Redis](https://redis.io/download)  
  
 
 [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
