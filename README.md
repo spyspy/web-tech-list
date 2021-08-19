@@ -29,6 +29,8 @@ Python/Django
 
 [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
 
+[OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
+
 =================
 
 # Distrubuted Systems
