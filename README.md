@@ -14,10 +14,15 @@ React
 # Back-End Framework
 ===============================
 
+Java 8, Java 11  
 Node.js/Express.js  
 Spring Boot/Spring Cloud  
-[MongoDB](https://www.mongodb.com/try/download/community)
-Python/Django
+[Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
+
+Python/Django  
+
+[MongoDB](https://www.mongodb.com/try/download/community)  
+[Redis](https://redis.io/download)
 
 =================
 
@@ -25,6 +30,7 @@ Python/Django
 ===============================
 
 Apache Camel+KAFKA  
+Reactive Programming  
 Spring WebFlux/WebClient  
 Docker  
 K8s(Kubernetes)  
@@ -49,6 +55,13 @@ OKD - The Community Distribution of Kubernetes that powers
 
 [Avoiding Reactor Meltdown](https://www.youtube.com/watch?v=xCu73WVg8Ps)
 觀看次數：10,852次2019年10月16日
+
+[Reactive Spring Security 5.1 by Example](https://www.youtube.com/watch?v=YcAufUtfm44)
+觀看次數：20,792次2018年10月5日
+
+[Reactive Relational Database Connectivity](https://www.youtube.com/watch?v=idApf9DMdfk)
+觀看次數：9,272次2018年10月4日
+
 
 =================
 
