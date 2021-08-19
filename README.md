@@ -17,7 +17,9 @@ React
 Node.js/Express.js  
 Spring Boot/Spring Cloud  
 [MongoDB](https://www.mongodb.com/try/download/community)
-Python/Django
+Python/Django  
+
+[Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
 
 =================
 
