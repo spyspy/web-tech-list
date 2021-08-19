@@ -65,8 +65,10 @@ OKD - The Community Distribution of Kubernetes that powers
 觀看次數：20,792次2018年10月5日
 
 [Reactive Relational Database Connectivity](https://www.youtube.com/watch?v=idApf9DMdfk)
-觀看次數：9,272次2018年10月4日
+觀看次數：9,272次2018年10月4日  
 
+[Designing a Reactive System](https://www.youtube.com/watch?v=Iwn8sBMf_P4)
+觀看次數：3,887次2019年10月16日  
 
 =================
 
