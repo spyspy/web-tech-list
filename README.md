@@ -11,7 +11,7 @@
 
 # Back-End Framework:
 
-* Java 8, Java 11  
+* Java 8, Java 10, Java 11  
 * Node.js/Express.js
 * Spring Boot/Spring Cloud 
 * Python/Django  
@@ -77,4 +77,8 @@
 * [Making the Java Fluent API More Flexible](https://dzone.com/articles/making-java-fluent-api-more-flexible)
 
 ---
+# Small Tips
 
+* [How to Stop Chrome from Automatically Redirecting to https](https://howchoo.com/chrome/stop-chrome-from-automatically-redirecting-https)
+
+---
