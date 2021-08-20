@@ -1,18 +1,17 @@
 # web-technology-list
-
-=================
+---
 
 # Front-End Framework
-===============================
+
 
 Angular  
 Vue  
 React  
 
-=================
+---
 
 # Back-End Framework
-===============================
+
 
 Java 8, Java 11  
 Node.js/Express.js  
@@ -32,10 +31,10 @@ Python/Django
 
 [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
 
-=================
+---
 
 # Distrubuted Systems
-===============================
+
 
 Apache Camel+KAFKA  
 Reactive Programming  
@@ -44,10 +43,10 @@ Docker
 K8s(Kubernetes)  
 OKD - The Community Distribution of Kubernetes that powers
 
-=================
+---
 
 # Reactive Programming
-===============================
+
 
 [Introduction to Reactive Programming](https://www.youtube.com/watch?v=fec9nEIybp0)
 觀看次數：19,218次2016年2月3日
@@ -73,11 +72,13 @@ OKD - The Community Distribution of Kubernetes that powers
 [Designing a Reactive System](https://www.youtube.com/watch?v=Iwn8sBMf_P4)
 觀看次數：3,887次2019年10月16日  
 
-=================
+---
 
 # Other Knowlege
-===============================
+
 
 [Design a Fluent API in Java](https://dzone.com/articles/java-fluent-api-design)
 
 [Making the Java Fluent API More Flexible](https://dzone.com/articles/making-java-fluent-api-more-flexible)
+
+---
