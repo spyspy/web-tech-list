@@ -17,7 +17,7 @@
 * Python/Django  
 
 * [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
-* [pring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=VVn9OG9nfH0)  
+* [Spring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=VVn9OG9nfH0)  
 * [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
 * [MongoDB](https://www.mongodb.com/try/download/community)  
 
