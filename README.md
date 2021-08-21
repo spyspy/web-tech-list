@@ -81,4 +81,6 @@
 
 * [How to Stop Chrome from Automatically Redirecting to https](https://howchoo.com/chrome/stop-chrome-from-automatically-redirecting-https)
 
+* [Java Logging Frameworks: log4j vs logback vs log4j2](https://stackify.com/compare-java-logging-frameworks/)
+
 ---
