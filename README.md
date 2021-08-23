@@ -23,6 +23,8 @@
 * Vue
 * React  
 
+* [Spring Boot Full Stack with Angular | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=Gx4iBLKLVHk) 觀看次數：209,856次首播日期：2021年2月5日
+
 ---
 
 # Back-End Framework:
@@ -32,7 +34,10 @@
 * Python/Django  
 
 
-* [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
+* [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U) 觀看次數：413,718次2021年1月10日
+
+* [Java Lombok Tutorial [NEW]](https://www.youtube.com/watch?v=z7bsNF2Dtf0) 觀看次數：30,787次2021年2月18日
+
 * [MongoDB](https://www.mongodb.com/try/download/community)  
 
 * [Redis](https://redis.io/download)  
