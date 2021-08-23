@@ -1,6 +1,13 @@
 # Web-Technology-List
 ---
 
+# Programming Languages
+* Java 8, Java 10, Java 11  
+* Java 8: Stream, Functional interface
+* Python
+* Javascript ES6/Node.js
+---
+
 # <u>**Front-End Framework:**</u>
 
 * Angular
@@ -11,9 +18,8 @@
 
 # Back-End Framework:
 
-* Java 8, Java 10, Java 11  
-* Node.js/Express.js
 * Spring Boot/Spring Cloud 
+* Node.js/Express.js
 * Python/Django  
 
 * [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
