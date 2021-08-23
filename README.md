@@ -16,8 +16,7 @@
 * Spring Boot/Spring Cloud 
 * Python/Django  
 
-* [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  
-* [Spring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=VVn9OG9nfH0)  
+
 * [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
 * [MongoDB](https://www.mongodb.com/try/download/community)  
 
@@ -38,6 +37,16 @@
 * Docker 
 * K8s(Kubernetes) 
 * OKD - The Community Distribution of Kubernetes that powers
+
+---
+# Spring Security
+
+* [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)  觀看次數：411,066次2019年12月19日
+* [Spring Boot and Spring Security with JWT including Access and Refresh Tokens](https://www.youtube.com/watch?v=VVn9OG9nfH0)觀看次數：44,197次2021年7月25日  
+* [Architecture Deep Dive in Spring Security](https://www.youtube.com/watch?v=AdsnM6OTepc)觀看次數：43,375次2016年11月4日  
+* [Implementing Microservices Security Patterns and Protocols with Spring Security](https://www.youtube.com/watch?v=JnYIsvJY7gM)觀看次數：26,059次2019年10月17日
+
+
 
 ---
 
@@ -75,6 +84,8 @@
 * [Design a Fluent API in Java](https://dzone.com/articles/java-fluent-api-design)
 
 * [Making the Java Fluent API More Flexible](https://dzone.com/articles/making-java-fluent-api-more-flexible)
+
+* [Java Streams Tutorial | 2020](https://www.youtube.com/watch?v=Q93JsQ8vcwY)
 
 ---
 # Small Tips
