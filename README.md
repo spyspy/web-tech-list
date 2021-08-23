@@ -1,4 +1,5 @@
-# Web-Technology-List
+# Web-Technology-List: 
+* Achievement to be unlocked!!
 ---
 
 # Programming Languages
@@ -6,6 +7,14 @@
 * Java 8: Stream, Functional interface
 * Python
 * Javascript ES6/Node.js
+* [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) by Venkat 觀看次數：193,610次2014年11月18日
+* [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ) by Venkat 觀看次數：367,301次2015年11月11日
+
+* [Functional Programming with Java 8 by Venkat Subramaniam](https://www.youtube.com/watch?v=15X0qFtBqiQ) by Venkat 觀看次數：47,833次2017年4月11日
+
+* [55 New Features in JDK 9 - Simon Ritter](https://www.youtube.com/watch?v=OFwjfUyJqUA)觀看次數：7,252次2017年12月15日
+* [DK 9, 10, 11 and Beyond: Delivering New Feature in the JDK](https://www.youtube.com/watch?v=mFyzyVnYcoY)觀看次數：50,069次2018年10月4日
+
 ---
 
 # <u>**Front-End Framework:**</u>
@@ -92,6 +101,8 @@
 * [Making the Java Fluent API More Flexible](https://dzone.com/articles/making-java-fluent-api-more-flexible)
 
 * [Java Streams Tutorial | 2020](https://www.youtube.com/watch?v=Q93JsQ8vcwY)
+
+* [JUnit 5: the Next Step in Automated Testing](https://www.youtube.com/watch?v=K7g2HUhWbNE)觀看次數：23,348次2018年10月5日
 
 ---
 # Small Tips
