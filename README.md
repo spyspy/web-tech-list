@@ -66,12 +66,17 @@
 * [Architecture Deep Dive in Spring Security](https://www.youtube.com/watch?v=AdsnM6OTepc)觀看次數：43,375次2016年11月4日  
 * [Implementing Microservices Security Patterns and Protocols with Spring Security](https://www.youtube.com/watch?v=JnYIsvJY7gM)觀看次數：26,059次2019年10月17日
 
-
+* [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y) 觀看次數：26,313次2018年10月5日
 
 ---
 
 # Reactive Programming
 
+* [Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?v=f3acAsSZPhU)
+
+* [Exploring reactive programming in Java by Miro Cupak](https://www.youtube.com/watch?v=nP-UeleMgE4) 觀看次數：16,009次2018年11月16日
+
+* [From Functional to Reactive Programming, Venkat Subramaniam](https://www.youtube.com/watch?v=U_NgcAg7jyY) 觀看次數：15,069次2018年6月28日
 
 * [Introduction to Reactive Programming](https://www.youtube.com/watch?v=fec9nEIybp0)
 觀看次數：19,218次2016年2月3日
@@ -98,7 +103,11 @@
 觀看次數：3,887次2019年10月16日  
 
 ---
+# IDE Platform
+* [Hacking Spring Boot Applications Using Visual Studio Code](https://www.youtube.com/watch?v=2uBR1HoNepc) 觀看次數：18,528次2018年10月4日
 
+
+---
 # Other Knowledge
 
 * [Design a Fluent API in Java](https://dzone.com/articles/java-fluent-api-design)
@@ -115,5 +124,7 @@
 * [How to Stop Chrome from Automatically Redirecting to https](https://howchoo.com/chrome/stop-chrome-from-automatically-redirecting-https)
 
 * [Java Logging Frameworks: log4j vs logback vs log4j2](https://stackify.com/compare-java-logging-frameworks/)
+
+* [The Difference Between Collection.stream().forEach() and Collection.forEach()](https://www.baeldung.com/java-collection-stream-foreach)
 
 ---
