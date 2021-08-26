@@ -13,7 +13,7 @@
 * [Functional Programming with Java 8 by Venkat Subramaniam](https://www.youtube.com/watch?v=15X0qFtBqiQ) by Venkat 觀看次數：47,833次2017年4月11日
 
 * [55 New Features in JDK 9 - Simon Ritter](https://www.youtube.com/watch?v=OFwjfUyJqUA)觀看次數：7,252次2017年12月15日
-* [DK 9, 10, 11 and Beyond: Delivering New Feature in the JDK](https://www.youtube.com/watch?v=mFyzyVnYcoY)觀看次數：50,069次2018年10月4日
+* [JDK 9, 10, 11 and Beyond: Delivering New Feature in the JDK](https://www.youtube.com/watch?v=mFyzyVnYcoY)觀看次數：50,069次2018年10月4日
 
 ---
 
@@ -24,6 +24,8 @@
 * React  
 
 * [Spring Boot Full Stack with Angular | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=Gx4iBLKLVHk) 觀看次數：209,856次首播日期：2021年2月5日
+
+* [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
 ---
 
