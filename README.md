@@ -27,6 +27,8 @@
 
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
+* [Angular Universal (For web SEO)]https://angular.io/guide/universal
+
 ---
 
 # Back-End Framework:
