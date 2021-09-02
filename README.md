@@ -73,6 +73,14 @@
 * [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y) 觀看次數：26,313次2018年10月5日
 
 ---
+# Video Streaming
+
+
+(https://zengcode.medium.com/video-streaming-with-spring-boot-webflux-e21d0c632315)
+
+(https://www.vinsguru.com/spring-webflux-video-streaming)
+
+---
 
 # Reactive Programming
 
