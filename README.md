@@ -43,6 +43,7 @@
 * [Java Lombok Tutorial [NEW]](https://www.youtube.com/watch?v=z7bsNF2Dtf0) 觀看次數：30,787次2021年2月18日
 
 * [MongoDB](https://www.mongodb.com/try/download/community)  
+* [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY)
 
 * [Redis](https://redis.io/download)  
 
