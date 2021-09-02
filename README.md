@@ -19,7 +19,7 @@
 
 # <u>**Front-End Framework:**</u>
 
-* Angular
+* [Angular 12](https://angular.io/guide/updating-to-version-12)
 * Vue
 * React  
 
@@ -33,7 +33,9 @@
 
 # Back-End Framework:
 
-* Spring Boot/Spring Cloud 
+* SpringBoot
+* Spring WebFlux
+* Spring Cloud 
 * Node.js/Express.js
 * Python/Django  
 
@@ -42,8 +44,10 @@
 
 * [Java Lombok Tutorial [NEW]](https://www.youtube.com/watch?v=z7bsNF2Dtf0) 觀看次數：30,787次2021年2月18日
 
-* [MongoDB](https://www.mongodb.com/try/download/community)  
+* [MongoDB (Community)](https://www.mongodb.com/try/download/community)  
 * [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY)
+
+* (https://www.mongodb.com/developer/how-to/use-atlas-on-heroku/)
 
 * [Redis](https://redis.io/download)  
 
