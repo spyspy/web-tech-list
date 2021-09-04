@@ -1,5 +1,5 @@
 # Web-Technology-List: 
-* Achievement to be unlocked!!
+* Achievement to be unlocked!! 2021 September By SpySpay
 ---
 
 # Programming Languages
@@ -77,6 +77,14 @@
 
 * [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y) 觀看次數：26,313次2018年10月5日
 
+---
+# Cloud Platform for Prodocution
+* Heroku / Heroku CLI
+* GCP / Google Cloud Platform
+* [GCP: Build and deploy a Java service](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/java?hl=zh-tw)
+* [聽說GCP費用最低？各種折扣方案完整說明](https://blog.cloud-ace.tw/google-cloud-platform/gcp-is-cheap-each-discount-plan-introduction/)
+
+* [Cloud Run vs App Engine: a head-to-head comparison using facts and science](https://dev.to/pcraig3/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-1225)
 ---
 # Video Streaming
 
