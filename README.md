@@ -85,7 +85,15 @@
 * [聽說GCP費用最低？各種折扣方案完整說明](https://blog.cloud-ace.tw/google-cloud-platform/gcp-is-cheap-each-discount-plan-introduction/)
 
 * [Cloud Run vs App Engine: a head-to-head comparison using facts and science](https://dev.to/pcraig3/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-1225)
+
 ---
+# Server Test
+
+* [使用 ApacheBench 進行網站的壓力測試](https://blog.miniasp.com/post/2008/06/30/Using-ApacheBench-ab-to-to-Web-stress-test)
+
+
+---
+
 # Video Streaming
 
 
