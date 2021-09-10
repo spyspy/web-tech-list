@@ -27,7 +27,11 @@
 
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
-* [Angular Universal (For web SEO)]https://angular.io/guide/universal
+* [Angular Universal (For web SEO)](https://angular.io/guide/universal)
+
+* [Data Visualization JavaScript Libraries: D3js](https://d3js.org/)
+
+* [Chart.js](https://www.chartjs.org/)
 
 ---
 
