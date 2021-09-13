@@ -34,6 +34,8 @@
 
 * [Data Visualization JavaScript Libraries: D3js](https://d3js.org/)
 
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+
 * [Chart.js](https://www.chartjs.org/)
 
 * [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
@@ -64,6 +66,12 @@
 * [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
 
 * [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
+
+---
+# Database DB
+
+* [Spring Boot Tutorial using JDBC + Connection Pool + Flyway + JDBC Template + SQL and Docker](https://www.youtube.com/watch?v=CJjHdchLY9Y)觀看次數：4,918次2021年9月13日
+
 
 ---
 
