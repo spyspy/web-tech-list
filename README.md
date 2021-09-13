@@ -36,7 +36,7 @@
 
 * [Chart.js](https://www.chartjs.org/)
 
-* [JavaScript Stock Chart Library with Simple API](https://canvasjs.com/javascript-stockcharts/)
+* [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
 
 ---
 
