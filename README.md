@@ -27,11 +27,16 @@
 
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
+---
+# Visualization
+
 * [Angular Universal (For web SEO)](https://angular.io/guide/universal)
 
 * [Data Visualization JavaScript Libraries: D3js](https://d3js.org/)
 
 * [Chart.js](https://www.chartjs.org/)
+
+* [JavaScript Stock Chart Library with Simple API](https://canvasjs.com/javascript-stockcharts/)
 
 ---
 
