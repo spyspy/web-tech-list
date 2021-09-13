@@ -60,7 +60,10 @@
 
 # Distributed Systems:
 
-* Apache Camel+KAFKA 
+* [Apache Camel](https://camel.apache.org/)
+* [Apache KAFKA](https://kafka.apache.org/)
+* (https://www.startdataengineering.com/post/what-why-and-how-apache-kafka/)
+* [RabbitMQ (Message Broker)](https://www.rabbitmq.com/)
 * Reactive Programming 
 * Spring WebFlux/WebClient 
 * Docker 
