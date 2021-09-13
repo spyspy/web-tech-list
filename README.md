@@ -28,6 +28,17 @@
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
 ---
+# Javascript Technology
+
+* [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+* [使用 Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Using_promises)
+
+* [Promise 物件代表一個即將完成、或失敗的非同步操作，以及它所產生的值。](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+* [Ajax — Async, Callback & Promise](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
+
+---
 # Visualization
 
 * [Angular Universal (For web SEO)](https://angular.io/guide/universal)
@@ -55,6 +66,13 @@
 
 * [Java Lombok Tutorial [NEW]](https://www.youtube.com/watch?v=z7bsNF2Dtf0) 觀看次數：30,787次2021年2月18日
 
+* [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
+
+* [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
+
+---
+# Database DB Relational/NoSQL
+
 * [MongoDB (Community)](https://www.mongodb.com/try/download/community)  
 * [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY)
 
@@ -62,16 +80,7 @@
 
 * [Redis](https://redis.io/download)  
 
-
-* [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
-
-* [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
-
----
-# Database DB
-
 * [Spring Boot Tutorial using JDBC + Connection Pool + Flyway + JDBC Template + SQL and Docker](https://www.youtube.com/watch?v=CJjHdchLY9Y)觀看次數：4,918次2021年9月13日
-
 
 ---
 
