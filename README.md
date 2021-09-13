@@ -27,7 +27,16 @@
 
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
-* [Angular Universal (For web SEO)]https://angular.io/guide/universal
+---
+# Visualization
+
+* [Angular Universal (For web SEO)](https://angular.io/guide/universal)
+
+* [Data Visualization JavaScript Libraries: D3js](https://d3js.org/)
+
+* [Chart.js](https://www.chartjs.org/)
+
+* [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
 
 ---
 
