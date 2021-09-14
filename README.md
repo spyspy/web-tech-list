@@ -106,6 +106,8 @@
 
 * [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y) 觀看次數：26,313次2018年10月5日
 
+* [Content-Security-Policy - HTTP Headers 的資安議題 (2) ](https://devco.re/blog/2014/04/08/security-issues-of-http-headers-2-content-security-policy/)
+
 ---
 # Cloud Platform for Prodocution
 * Heroku / Heroku CLI
