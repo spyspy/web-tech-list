@@ -58,10 +58,12 @@
 * [SpringBoot](https://spring.io/projects/spring-boot)
 * [Spring Boot in Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot)
 * [Getting Started with Java in VS Code](https://code.visualstudio.com/docs/java/java-tutorial#_before-you-begin)
+* [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c)
 * Spring WebFlux
 * Spring Cloud 
 * Node.js/Express.js
-* Python/Django  
+* Python/Django
+* [Django For Everybody - Full Python University Course](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
 
 
 * [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U) 觀看次數：413,718次2021年1月10日
