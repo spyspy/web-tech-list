@@ -52,6 +52,11 @@
 * [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
 
 ---
+# Visualizatin for Angular
+* [ng2-charts](https://valor-software.com/ng2-charts/)
+* [Chart.js](https://www.chartjs.org/docs/latest/getting-started/)
+* [Angular & Chart.js (with ng2-charts)](https://medium.com/codingthesmartway-com-blog/angular-chart-js-with-ng2-charts-e21c8262777f)
+---
 
 # Back-End Framework:
 
