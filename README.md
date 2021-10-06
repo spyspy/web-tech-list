@@ -93,6 +93,15 @@
 
 ---
 
+# Scalability, high availability
+
+* [HOW TO MAKE A SUCCESSFUL SCALABLE WEB APPLICATION?](https://justcoded.com/blog/how-to-make-a-successful-scalable-web-application/)
+* [Building scalable web applications – 25 experts share their tips](https://www.simform.com/blog/tips-building-scalable-web-applications/) September 18, 2019
+* []()
+
+
+---
+
 # Distributed Systems:
 
 * [Apache Camel](https://camel.apache.org/)
