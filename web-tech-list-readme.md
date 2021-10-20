@@ -92,6 +92,10 @@
 * [Spring Boot Tutorial using JDBC + Connection Pool + Flyway + JDBC Template + SQL and Docker](https://www.youtube.com/watch?v=CJjHdchLY9Y)觀看次數：4,918次2021年9月13日
 
 ---
+# Microservices
+* [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
+
+---
 
 # Scalability, high availability
 
