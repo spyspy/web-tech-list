@@ -27,6 +27,8 @@
 
 * [Deploying Angular Applications | Mosh](https://www.youtube.com/watch?v=vwyvMZStS54)
 
+* [CORS problems]()
+* [JWT,SSO,LOGIN Sytem,CORS,CSRF attack]()
 ---
 # Javascript Technology
 
@@ -37,6 +39,7 @@
 * [Promise 物件代表一個即將完成、或失敗的非同步操作，以及它所產生的值。](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 * [Ajax — Async, Callback & Promise](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
+
 
 ---
 # Visualization
@@ -96,8 +99,12 @@
 * [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 
 ---
+# Multi-Cloud Object Storage
+* [MinIO](https://min.io/)
 
-# Scalability, high availability
+---
+
+# Scalability, High Availability
 
 * [HOW TO MAKE A SUCCESSFUL SCALABLE WEB APPLICATION?](https://justcoded.com/blog/how-to-make-a-successful-scalable-web-application/)
 * [Building scalable web applications – 25 experts share their tips](https://www.simform.com/blog/tips-building-scalable-web-applications/) September 18, 2019
