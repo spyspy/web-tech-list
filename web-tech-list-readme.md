@@ -83,6 +83,10 @@
 * [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
 
 ---
+# Fileupload
+* [Spring and Apache FileUpload](https://www.baeldung.com/spring-apache-file-upload)
+
+---
 # Database DB Relational/NoSQL
 
 * [MongoDB (Community)](https://www.mongodb.com/try/download/community)  
