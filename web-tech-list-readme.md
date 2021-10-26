@@ -147,11 +147,17 @@
 
 
 ---
-# Web Security
+# Web/API Security
 
 * [Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 
 * [Content-Security-Policy - HTTP Headers 的資安議題 (2) ](https://devco.re/blog/2014/04/08/security-issues-of-http-headers-2-content-security-policy/)
+
+* [Securing APIs: 10 Ways to Keep Your Data and Infrastructure Safe](https://www.f5.com/labs/articles/education/securing-apis--10-best-practices-for-keeping-your-data-and-infra)
+
+* [Securing REST APIs by Les Hazlewood](https://developer.okta.com/blog/2019/09/04/securing-rest-apis)September 4, 2019 
+
+* [Best practices for REST API security: Authentication and authorization](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/)OCTOBER 6, 2021
 
 ---
 # Cloud Platform for Prodocution
