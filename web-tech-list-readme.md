@@ -99,6 +99,12 @@
 * [Spring Boot Tutorial using JDBC + Connection Pool + Flyway + JDBC Template + SQL and Docker](https://www.youtube.com/watch?v=CJjHdchLY9Y)觀看次數：4,918次2021年9月13日
 
 ---
+# Read/Write seperate db
+* [通過讀寫分離提升資料吞吐效能](https://www.alibabacloud.com/help/tc/doc-detail/52256.htm)
+
+ * [Database Scaling with Read/Write Split](https://blog.heimdalldata.com/2017/12/06/database-scaling-read-write-split/)
+
+---
 # Microservices
 * [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 
@@ -119,9 +125,9 @@
 
 # Testing  / Pressure Test 壓力測試
 
-*[性能測試工具 Apache Bench](https://ithelp.ithome.com.tw/articles/10233147)
+* [性能測試工具 Apache Bench](https://ithelp.ithome.com.tw/articles/10233147)
 
-*[JEST](https://jestjs.io/)
+* [JEST](https://jestjs.io/)
 
 ---
 
