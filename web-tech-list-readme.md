@@ -87,6 +87,8 @@
 * [Spring and Apache FileUpload](https://www.baeldung.com/spring-apache-file-upload)
 * [Java 异步I/O](https://www.w3cschool.cn/java/java-nio-asynchronous.html)
 * [支撐Java NIO與NodeJS的底層技術](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/315196/)
+* [How to read pdf file and write it to outputStream [closed]
+](https://stackoverflow.com/questions/16891792/how-to-read-pdf-file-and-write-it-to-outputstream)
 ---
 # Database DB Relational/NoSQL
 
