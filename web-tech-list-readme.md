@@ -64,6 +64,8 @@
 # Back-End Framework:
 
 * [SpringBoot](https://spring.io/projects/spring-boot)
+* [SpringBoot教學 by J.J.'s Blogs](https://morosedog.gitlab.io/categories/Spring-Boot)
+
 * [Spring Boot in Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot)
 * [Getting Started with Java in VS Code](https://code.visualstudio.com/docs/java/java-tutorial#_before-you-begin)
 * [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c)
@@ -140,12 +142,15 @@
 * [Apache Camel](https://camel.apache.org/)
 * [Apache KAFKA](https://kafka.apache.org/)
 * (https://www.startdataengineering.com/post/what-why-and-how-apache-kafka/)
-* [RabbitMQ (Message Broker)](https://www.rabbitmq.com/)
 * Reactive Programming 
 * Spring WebFlux/WebClient 
 * Docker 
 * K8s(Kubernetes) 
 * OKD - The Community Distribution of Kubernetes that powers
+
+* [RabbitMQ (Message Broker)](https://www.rabbitmq.com/)
+* [RabbitMQ 基本介紹、安裝教學](https://kucw.github.io/blog/2020/11/rabbitmq/)
+
 
 ---
 # Spring Security
