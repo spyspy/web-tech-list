@@ -196,10 +196,11 @@
 
 # Video Streaming
 
+* [Video Stream over HTTP using Spring Boot](https://saravanastar.medium.com/video-streaming-over-http-using-spring-boot-51e9830a3b8)
 
-(https://zengcode.medium.com/video-streaming-with-spring-boot-webflux-e21d0c632315)
+* (https://zengcode.medium.com/video-streaming-with-spring-boot-webflux-e21d0c632315)
 
-(https://www.vinsguru.com/spring-webflux-video-streaming)
+* (https://www.vinsguru.com/spring-webflux-video-streaming)
 
 ---
 
