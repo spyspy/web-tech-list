@@ -54,6 +54,8 @@
 
 * [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
 
+* [Canvas vs SVG](https://www.sitepoint.com/canvas-vs-svg/)
+
 ---
 # Visualizatin for Angular
 * [ng2-charts](https://valor-software.com/ng2-charts/)
@@ -262,3 +264,8 @@
 * [The Difference Between Collection.stream().forEach() and Collection.forEach()](https://www.baeldung.com/java-collection-stream-foreach)
 
 ---
+
+# Stock market
+
+* [TechanJS](https://techanjs.org/)
+* [TechanJS code](https://github.com/andredumas/techan.js/releases/tag/0.8.0)
