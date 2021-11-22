@@ -17,7 +17,7 @@
 * [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 ---
 
-# React
+# React.js
 * [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]](https://www.youtube.com/watch?v=0mVbNp1ol_w)
 * [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) by Dave Gray
 * [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Traversy Media 
@@ -94,11 +94,11 @@
 
 ---
 
-# Python Skill:
+# Python:
 * Python
 * 
 * [Introduction to Dash Plotly - Data Visualization in Python](https://www.youtube.com/watch?v=hSPmj7mK6ng)
-* Backtrader
+* [Backtrader]
 
 # Fileupload
 * [Spring and Apache FileUpload](https://www.baeldung.com/spring-apache-file-upload)
