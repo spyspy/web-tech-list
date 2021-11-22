@@ -14,14 +14,20 @@
 
 * [55 New Features in JDK 9 - Simon Ritter](https://www.youtube.com/watch?v=OFwjfUyJqUA)觀看次數：7,252次2017年12月15日
 * [JDK 9, 10, 11 and Beyond: Delivering New Feature in the JDK](https://www.youtube.com/watch?v=mFyzyVnYcoY)觀看次數：50,069次2018年10月4日
-
+* [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 ---
+
+# React
+* [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]](https://www.youtube.com/watch?v=0mVbNp1ol_w)
+* [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) by Dave Gray
+* [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Traversy Media 
 
 # <u>**Front-End Framework:**</u>
 
 * [Angular 12](https://angular.io/guide/updating-to-version-12)
 * Vue
-* React  
+* React
+* 
 
 * [Spring Boot Full Stack with Angular | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=Gx4iBLKLVHk) 觀看次數：209,856次首播日期：2021年2月5日
 
@@ -87,6 +93,13 @@
 * [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
 
 ---
+
+# Python Skill:
+* Python
+* 
+* [Introduction to Dash Plotly - Data Visualization in Python](https://www.youtube.com/watch?v=hSPmj7mK6ng)
+* Backtrader
+
 # Fileupload
 * [Spring and Apache FileUpload](https://www.baeldung.com/spring-apache-file-upload)
 * [Java 异步I/O](https://www.w3cschool.cn/java/java-nio-asynchronous.html)
