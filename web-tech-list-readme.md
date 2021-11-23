@@ -18,8 +18,11 @@
 ---
 
 # React.js
+
 * [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]](https://www.youtube.com/watch?v=0mVbNp1ol_w)
+
 * [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) by Dave Gray
+
 * [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Traversy Media 
 
 # <u>**Front-End Framework:**</u>
@@ -61,6 +64,8 @@
 * [Best Free JavaScript Chart Libraries (by Monty ShokeenJul 12, 2021)](https://code.tutsplus.com/articles/best-free-javascript-charts-libraries--cms-37458)
 
 * [Canvas vs SVG](https://www.sitepoint.com/canvas-vs-svg/)
+* 
+* [Pure CSS Loaders (Spinner!!!)](https://loading.io/css/)
 
 ---
 # Visualizatin for Angular
@@ -94,9 +99,9 @@
 
 ---
 
-# Python:
+# Python Libraries:
 * Python
-* 
+* [Matplotlib — Visualization with Python](https://matplotlib.org/)
 * [Introduction to Dash Plotly - Data Visualization in Python](https://www.youtube.com/watch?v=hSPmj7mK6ng)
 * [Backtrader]
 
