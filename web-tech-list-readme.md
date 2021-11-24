@@ -25,6 +25,8 @@
 
 * [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Traversy Media 
 
+* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)  by Traversy Media 
+
 # <u>**Front-End Framework:**</u>
 
 * [Angular 12](https://angular.io/guide/updating-to-version-12)
@@ -96,6 +98,11 @@
 * [Node.js Authentication With JWT | Node JWT Authentication Example](https://www.youtube.com/watch?v=wKddzNMDnaQ)  
 
 * [OAuth 2.0 Resource Server With Spring Security 5](https://www.baeldung.com/spring-security-oauth-resource-server)
+
+---
+# Node.js
+* [NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021](https://www.youtube.com/watch?v=2n3xS89TJMI)
+* [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)
 
 ---
 
