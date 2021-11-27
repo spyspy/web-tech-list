@@ -174,6 +174,7 @@
 * Docker 
 * K8s(Kubernetes) 
 * OKD - The Community Distribution of Kubernetes that powers
+* [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do) 觀看次數：2,508,755次2020年11月6日
 
 * [RabbitMQ (Message Broker)](https://www.rabbitmq.com/)
 * [RabbitMQ 基本介紹、安裝教學](https://kucw.github.io/blog/2020/11/rabbitmq/)
