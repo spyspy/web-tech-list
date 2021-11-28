@@ -295,3 +295,9 @@
 
 * [TechanJS](https://techanjs.org/)
 * [TechanJS code](https://github.com/andredumas/techan.js/releases/tag/0.8.0)
+
+# Dual System: Windows + Linux(Ubuntu)
+* [How to Install Ubuntu Alongside Windows 10
+Last updated July 10, 2021 By Abhishek Prakash 852 Comments](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+
+* [How to Dual Boot Ubuntu 20.04 LTS and Windows 10 [ 2020 ]](https://www.youtube.com/watch?v=-iSAyiicyQY)
