@@ -303,3 +303,9 @@ Last updated July 10, 2021 By Abhishek Prakash 852 Comments](https://itsfoss.com
 * [How to Dual Boot Ubuntu 20.04 LTS and Windows 10 [ 2020 ]](https://www.youtube.com/watch?v=-iSAyiicyQY)
 
 * [Proxmox VE Full Course: Class 1 - Getting Started](https://www.youtube.com/watch?v=LCjuiIswXGs)
+* [Proxmox VE Full Course: Class 2 - Installation Process](https://www.youtube.com/watch?v=u8E3-Zy9NvI)
+* [ Proxmox Full Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+
+* [Day 01 - 什麼是 Proxmox VE](https://ithelp.ithome.com.tw/articles/10237930)
+* [Day 02 - 安裝 Proxmox VE](https://ithelp.ithome.com.tw/articles/10238663)
+* [Day 03 - 容器基礎](https://ithelp.ithome.com.tw/articles/10239370)
