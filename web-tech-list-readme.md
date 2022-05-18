@@ -179,7 +179,7 @@
 * [RabbitMQ (Message Broker)](https://www.rabbitmq.com/)
 * [RabbitMQ 基本介紹、安裝教學](https://kucw.github.io/blog/2020/11/rabbitmq/)
 
-
+* [Message Queue 簡介(以 RabbitMQ 為例)](https://godleon.github.io/blog/ChatOps/message-queue-concepts/)
 ---
 # Spring Security
 
